@@ -51,3 +51,33 @@ font-style: normal;
 font-weight: 400;
 line-height: 101.385%;
 }
+
+
+/* tablet */
+
+@media screen and (max-width: 1024px) {
+
+.container {
+    padding: 29px 85px 14px 71px;
+}
+
+.container .box-container .left-box .ikon {
+ margin-top: 17px;
+
+}
+
+.container .box-container .left-box .ikon img {
+ margin-right: 14px;
+}
+
+.container .box-container .right-box ul li{
+    margin-bottom: 12px;
+}
+
+.container .text p {
+    bottom: 30px;
+}
+
+
+
+}
